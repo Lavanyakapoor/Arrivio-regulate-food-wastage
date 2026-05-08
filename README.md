@@ -1,5 +1,21 @@
 # 🥗 Arrivio — Intelligent Household Food Waste Prevention Platform
 
+---
+
+## 📋 Project Information
+
+| Field | Details |
+|---|---|
+| **Name** | Lavanya Kapoor |
+| **Roll Number** | 2210991850 |
+| **Type** | Copyright |
+| **Institution** | Chitkara University, Rajpura, Punjab |
+| **Team Members** | Lavanya Kapoor — 2210991850 |
+| **Submitted To** | Dr. Preeti Saini |
+| **Current Status** | ✅ Submitted |
+
+---
+
 > **Track. Alert. Donate. Impact.**  
 > A full-stack web application that empowers households to reduce food waste, donate near-expiry items, and measure their personal environmental footprint.
 
