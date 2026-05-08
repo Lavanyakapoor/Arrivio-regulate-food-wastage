@@ -380,8 +380,6 @@ mongosh
 |---|---|
 | <img width="960" height="547" alt="image" src="https://github.com/user-attachments/assets/5f5d4aed-3708-4e7e-a349-9ab1ab976e55" /> | <img width="960" height="548" alt="image" src="https://github.com/user-attachments/assets/48a22200-d7f3-49e2-8c84-32ad806b39f9" /> |
 
-> ⚠️ Add your actual screenshots to a `/screenshots` folder in the root of the project.
-
 ---
 
 ## Research & References
