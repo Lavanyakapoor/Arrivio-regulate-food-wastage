@@ -370,8 +370,7 @@ mongosh
 
 | Dashboard | Inventory |
 |---|---|
-| <img width="882" height="460" alt="image" src="https://github.com/user-attachments/assets/ab33f381-0bd4-44d1-a506-849b37eff946" />|
-| <img width="1122" height="637" alt="image" src="https://github.com/user-attachments/assets/38ffe04a-13b0-4c41-9059-1c3fedfb1a01" />|
+|<img width="882" height="460" alt="image" src="https://github.com/user-attachments/assets/ab33f381-0bd4-44d1-a506-849b37eff946" />|<img width="1122" height="637" alt="image" src="https://github.com/user-attachments/assets/38ffe04a-13b0-4c41-9059-1c3fedfb1a01" />|
 
 | Donate & Community Board | NGO Finder |
 |---|---|
