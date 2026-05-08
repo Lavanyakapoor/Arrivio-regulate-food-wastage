@@ -370,12 +370,11 @@ mongosh
 
 | Dashboard | Inventory |
 |---|---|
-| <img width="1130" height="707" alt="image" src="https://github.com/user-attachments/assets/8f15b691-df96-4de4-89bc-7d3dd3689d19" />  |<img width="1122" height="637" alt="image" src="https://github.com/user-attachments/assets/38ffe04a-13b0-4c41-9059-1c3fedfb1a01" /> |
+| <img width="1130" height="707" alt="image" src="https://github.com/user-attachments/assets/8f15b691-df96-4de4-89bc-7d3dd3689d19" /> | <img width="1122" height="637" alt="image" src="https://github.com/user-attachments/assets/38ffe04a-13b0-4c41-9059-1c3fedfb1a01" /> |
 
 | Donate & Community Board | NGO Finder |
 |---|---|
-| <img width="1153" height="658" alt="image" src="https://github.com/user-attachments/assets/09ca8596-509a-4055-96ea-a77ef3a2adc8" /> | <img width="1142" height="613" alt="image" src="https://github.com/user-attachments/assets/eb20893c-57bb-419b-b903-c530d9737b5a" />
- |
+| <img width="1153" height="658" alt="image" src="https://github.com/user-attachments/assets/e22b061a-56d9-4e24-9c5d-e7939d9aa2c4" /> | <img width="1142" height="613" alt="image" src="https://github.com/user-attachments/assets/2e1ec0b4-77ac-4374-90ec-fc3624e59a83" /> |
 
 | Impact Analytics | Carbon Footprint Tracker |
 |---|---|
